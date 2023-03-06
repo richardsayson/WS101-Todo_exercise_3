@@ -32,7 +32,7 @@ export default function Done({ todos }) {
         <div className="flex justify-center flex-col items-center">
             <div className="grow shrink-0 w-[500px]">
                 <div className="pt-5">
-                    <div className="text-lg font-bold">Done Task:
+                    <div className="text-lg font-bold">Completed Task:
                     </div>
                 </div>
                 <ul>
